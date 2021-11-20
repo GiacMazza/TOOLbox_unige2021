@@ -1,0 +1,12 @@
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+revision.inc
+test
+Makefile
+*.mod
+*.o
+build*
+.archive/
+src/ED_VERSION.f90
+.DS_Store
