@@ -1,6 +1,16 @@
 *.mod
 *.a
 *.o
+
+
 DMFT_ExactDiagonalization/LIBS/opt/
 DMFT_ExactDiagonalization/ED_superconductivity/DATA/run_test/
 DMFT_ExactDiagonalization/ED_superconductivity/DATA/data_mafalda/
+DMFT_IPT/IPT_iw/SRC/ipt_hm_matsubara
+DMFT_IPT/IPT_realw/SRC/ipt_hm_real
+DMFT_IPT/IPT_iw/DATA/test_run/
+DMFT_IPT/IPT_realw/DATA/test_run/
+DMFT_ExactDiagonalization/LIBS/DMFTtools/build/
+DMFT_ExactDiagonalization/LIBS/SciFortran/build
+DMFT_ExactDiagonalization/LIBS/LIB_DMFT_ED/build/
+DMFT_ExactDiagonalization/ED_superconductivity/SRC/ed_ahm_bethe

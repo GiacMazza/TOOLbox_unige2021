@@ -1,7 +1,7 @@
 #!/bin/bash                                                                      
 
 EXE=ed_ahm_bethe
-EXEDIR=Users/giacomo/project_src/TOOLbox_unige2021/DMFT_ExactDiagonalization/ED_superconductivity/SRC/
+EXEDIR=${your_path}/TOOLbox_unige2021/DMFT_ExactDiagonalization/ED_superconductivity/SRC/
 NBATH=6
 
 HRESTART=hamiltonian.restart
