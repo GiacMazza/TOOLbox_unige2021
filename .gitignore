@@ -2,3 +2,5 @@
 *.a
 *.o
 DMFT_ExactDiagonalization/LIBS/opt/
+DMFT_ExactDiagonalization/ED_superconductivity/DATA/run_test/
+DMFT_ExactDiagonalization/ED_superconductivity/DATA/data_mafalda/
